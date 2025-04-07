@@ -1,7 +1,3 @@
-## Project Repository
-
-The full implementation is available at: [https://github.com/Ibzie/LSTM-Word-Completion-for-Shakespearean-Text](https://github.com/Ibzie/LSTM-Word-Completion-for-Shakespearean-Text)# ShakespeareQuill: LSTM-Based Word Completion for Elizabethan Text
-
 A sophisticated word completion system trained on Shakespeare's works that uses bidirectional LSTMs with Byte-Pair Encoding to suggest contextually appropriate words in real-time, preserving the distinct style of Shakespearean English.
 
 ## Overview
